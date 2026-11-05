@@ -2,7 +2,8 @@
   "servers": [
     {
       "name": "zaiyongde-koyeb",
-      "address": "https://anisette-v3-zaiyongde-f556e4a0.apps.mistral.run"
+      "address": "https://anisette-v3-zaiyongde-f556e4a0.apps.mistral.run",
+      "kind": 0
     }
   ]
 }
